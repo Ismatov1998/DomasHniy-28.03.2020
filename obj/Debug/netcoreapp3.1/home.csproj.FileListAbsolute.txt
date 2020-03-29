@@ -1,0 +1,11 @@
+C:\project11\home2\bin\Debug\netcoreapp3.1\home.exe
+C:\project11\home2\bin\Debug\netcoreapp3.1\home.deps.json
+C:\project11\home2\bin\Debug\netcoreapp3.1\home.runtimeconfig.json
+C:\project11\home2\bin\Debug\netcoreapp3.1\home.runtimeconfig.dev.json
+C:\project11\home2\bin\Debug\netcoreapp3.1\home.dll
+C:\project11\home2\bin\Debug\netcoreapp3.1\home.pdb
+C:\project11\home2\obj\Debug\netcoreapp3.1\home.csprojAssemblyReference.cache
+C:\project11\home2\obj\Debug\netcoreapp3.1\home.AssemblyInfoInputs.cache
+C:\project11\home2\obj\Debug\netcoreapp3.1\home.AssemblyInfo.cs
+C:\project11\home2\obj\Debug\netcoreapp3.1\home.dll
+C:\project11\home2\obj\Debug\netcoreapp3.1\home.pdb
