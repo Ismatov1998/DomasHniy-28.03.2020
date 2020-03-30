@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\project11\\home2\\home.csproj": {}
+    "C:\\project4\\DomasHniy-28.03.2020\\home.csproj": {}
   },
   "projects": {
-    "C:\\project11\\home2\\home.csproj": {
+    "C:\\project4\\DomasHniy-28.03.2020\\home.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\project11\\home2\\home.csproj",
+        "projectUniqueName": "C:\\project4\\DomasHniy-28.03.2020\\home.csproj",
         "projectName": "home",
-        "projectPath": "C:\\project11\\home2\\home.csproj",
+        "projectPath": "C:\\project4\\DomasHniy-28.03.2020\\home.csproj",
         "packagesPath": "C:\\Users\\Aziz\\.nuget\\packages\\",
-        "outputPath": "C:\\project11\\home2\\obj\\",
+        "outputPath": "C:\\project4\\DomasHniy-28.03.2020\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aziz\\AppData\\Roaming\\NuGet\\NuGet.Config"

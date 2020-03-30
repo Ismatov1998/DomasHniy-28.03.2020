@@ -198,6 +198,7 @@ namespace home
            // Console.WriteLine(Summ);
         }
         Console.WriteLine($"через {t} месяца Перевесит 1100 руб");
+        Console.WriteLine($" через {t} месяца сумма вклада будеть {Summ}");
         
 
       

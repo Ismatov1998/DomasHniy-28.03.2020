@@ -9,3 +9,14 @@ C:\project11\home2\obj\Debug\netcoreapp3.1\home.AssemblyInfoInputs.cache
 C:\project11\home2\obj\Debug\netcoreapp3.1\home.AssemblyInfo.cs
 C:\project11\home2\obj\Debug\netcoreapp3.1\home.dll
 C:\project11\home2\obj\Debug\netcoreapp3.1\home.pdb
+C:\project4\DomasHniy-28.03.2020\bin\Debug\netcoreapp3.1\home.exe
+C:\project4\DomasHniy-28.03.2020\bin\Debug\netcoreapp3.1\home.deps.json
+C:\project4\DomasHniy-28.03.2020\bin\Debug\netcoreapp3.1\home.runtimeconfig.json
+C:\project4\DomasHniy-28.03.2020\bin\Debug\netcoreapp3.1\home.runtimeconfig.dev.json
+C:\project4\DomasHniy-28.03.2020\bin\Debug\netcoreapp3.1\home.dll
+C:\project4\DomasHniy-28.03.2020\bin\Debug\netcoreapp3.1\home.pdb
+C:\project4\DomasHniy-28.03.2020\obj\Debug\netcoreapp3.1\home.csprojAssemblyReference.cache
+C:\project4\DomasHniy-28.03.2020\obj\Debug\netcoreapp3.1\home.AssemblyInfoInputs.cache
+C:\project4\DomasHniy-28.03.2020\obj\Debug\netcoreapp3.1\home.AssemblyInfo.cs
+C:\project4\DomasHniy-28.03.2020\obj\Debug\netcoreapp3.1\home.dll
+C:\project4\DomasHniy-28.03.2020\obj\Debug\netcoreapp3.1\home.pdb
